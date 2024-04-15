@@ -1,20 +1,3 @@
 {
-  "MemberId": "0",
-  "Name": "System Power Control",
-  "PowerAllocatedWatts": 588,
-  "PowerAvailableWatts": 0,
-  "PowerCapacityWatts": 770,
   "PowerConsumedWatts": 207,
-  "PowerLimit": {
-    "CorrectionInMs": 0,
-    "LimitException": "HardPowerOff",
-    "LimitInWatts": 133
-  },
-  "PowerMetrics": {
-    "AverageConsumedWatts": 200,
-    "IntervalInMin": 1,
-    "MaxConsumedWatts": 218,
-    "MinConsumedWatts": 198
-  },
-  "PowerRequestedWatts": 607.71142578125,
 }
